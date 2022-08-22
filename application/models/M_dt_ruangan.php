@@ -17,7 +17,7 @@ class M_dt_ruangan extends CI_Model
 		$i = 0;
 		foreach ($this->column_search as $item) // looping awal
 		{
-			if ($_POST['search']['value']) // jika datatable mengirimkan pencarian dengan metode POST
+			if (isset($_POST['search']['value'])) // jika datatable mengirimkan pencarian dengan metode POST
 			{
 				if ($i === 0) // looping awal
 				{
