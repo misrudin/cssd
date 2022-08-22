@@ -126,7 +126,7 @@ let tabel
 
 		],
 		processing: true,
-		serverSide: false,
+		serverSide: true,
 		responsive: true,
 		ajax: {
 			url: `${base_url}ruangan/get_dt_ruangan`,
