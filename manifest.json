@@ -1,0 +1,35 @@
+{
+  "short_name": "SISTEM PENCATATAN ALAT CSSD",
+  "name": "Sistem Pencatatan Alat CSSD",
+  "description": "Catatan Alat Kesehatan Departemen CSSD",
+  "background_color": "#EAEAEA",
+  "theme_color": "white",
+  "display": "standalone",
+  "start_url": ".",
+  "icons": [
+    {
+      "src": "/public/assets/images/splashscreen/logo-34.png",
+      "type": "image/png",
+      "sizes": "34x34",
+      "purpose": "any"
+    },
+    {
+      "src": "/public/assets/images/splashscreen/logo-45.png",
+      "type": "image/png",
+      "sizes": "45x45",
+      "purpose": "any"
+    },
+    {
+      "src": "/public/assets/images/splashscreen/logo-122.png",
+      "type": "image/png",
+      "sizes": "122x122",
+      "purpose": "any"
+    },
+    {
+      "src": "/public/assets/images/splashscreen/logo-144-svg.svg",
+      "type": "image/png",
+      "sizes": "150x150",
+      "purpose": "any"
+    }
+  ]
+}
